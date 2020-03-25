@@ -55,5 +55,5 @@
 |---------------|-------------|
 |	Probe	|	portsweep, ipsweep, queso, satan, msscan, ntinfoscan, lsdomain, illegal-sniffer	|
 |	DoS	|	apache2, smurf, neptune, dosnuke, land, pod, back, teardrop, tcpreset, syslogd, crashiis, arppoison, mailbomb, selfping, processtable, udpstorm, warezclient	|
-|	R2L	|	"dict, netcat, sendmail, imap, ncftp, xlock, xsnoop, sshtrojan,framespoof, ppmacro, guest, netbus, snmpget, ftpwrite, httptunnel, phf, named"	|
+|	R2L	|	dict, netcat, sendmail, imap, ncftp, xlock, xsnoop, sshtrojan,framespoof, ppmacro, guest, netbus, snmpget, ftpwrite, httptunnel, phf, named"	|
 |	U2R	|	sechole, xterm, eject, ps, nukepw, secret, perl, yaga, fdformat, ffbconfig, casesen, ntfsdos, ppmacro, loadmodule, sqlattack	|
