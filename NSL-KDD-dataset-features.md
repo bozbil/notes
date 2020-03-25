@@ -1,4 +1,5 @@
 |	Number	|	Feature name	|	Type	|	Description	|
+|---------|---------------|--------|-------------|
 |	1	|	Duration	|	Continuous	|	Duration of the connection.	|
 |	2	|	Protocol-type	|	Discrete	|	Connection protocol (tcp, udp...).	|
 |	3	|	Service	|	Discrete	|	Destination service (telnet, ftp...).	|
