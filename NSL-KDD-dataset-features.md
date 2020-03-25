@@ -1,3 +1,7 @@
+# List of features in NSL-KDD dataset
+
+## Features
+
 |	Number	|	Feature name	|	Type	|	Description	|
 |---------|---------------|--------|-------------|
 |	1	|	Duration	|	Continuous	|	Duration of the connection.	|
@@ -41,3 +45,17 @@
 |	39	|	Dst-host-srv-serror-rate	|	Continuous	|	% of connections to the current host that and specified service that have an S0 error.	|
 |	40	|	Dst-host-rerror-rate	|	Continuous	|	% of connections to the current host that have an RSTerror.	|
 |	41	|	Dst-host-srv-rerror-rate	|	Continuous	|	% of connections to the current host and specified ser vice that have an RST error.	|
+
+
+
+## Attack Types
+
+
+|	Attack Class 	|	Attack Type	|
+|---------------|-------------|
+|	Probe	|	portsweep, ipsweep, queso, satan, msscan, ntinfoscan, lsdomain, illegal-sniffer	|
+|	DoS	|	apache2, smurf, neptune, dosnuke, land, pod, back, teardrop, tcpreset, syslogd, crashiis, arppoison, mailbomb, selfping, processtable, udpstorm, warezclient	|
+|	R2L	|	"dict, netcat, sendmail, imap, ncftp, xlock, xsnoop, sshtrojan,
+framespoof, ppmacro, guest, netbus, snmpget, ftpwrite,
+httptunnel, phf, named"	|
+|	U2R	|	sechole, xterm, eject, ps, nukepw, secret, perl, yaga, fdformat, ffbconfig, casesen, ntfsdos, ppmacro, loadmodule, sqlattack	|
