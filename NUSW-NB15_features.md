@@ -50,3 +50,20 @@
 | 48   | attack_cat      | nominal      | The name of each attack category. In this data set , nine categories e.g. Fuzzers, Analysis, Backdoors, DoS Exploits, Generic, Reconnaissance, Shellcode and Worms |
 | 49   | Label           | binary       | 0 for normal and 1 for attack records                                                                                                                              |
 |      |                 |              |                                                                                                                                                                    |
+
+
+
+| Attack Types   |
+|----------------|
+| Fuzzers        |
+| Analysis       |
+| Backdoors      |
+| DoS            |
+| Exploits       |
+| Generic        |
+| Reconnaissance |
+| Shellcode      |
+| Worms          |
+
+
+source:https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
